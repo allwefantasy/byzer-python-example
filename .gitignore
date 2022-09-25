@@ -5,3 +5,4 @@ logs
 store
 test.mlsqlnb
 test.ipynb
+.mlsql.config
