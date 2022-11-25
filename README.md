@@ -13,9 +13,9 @@
 
 接着你可以根据操作系统，下载合适的 Byzer 扩展：
 
-1. [Mac](https://download.byzer.org/byzer/2.3.2/byzer-vscode-extension-darwin-0.0.7.vsix)
-2. [Linux](https://download.byzer.org/byzer/2.3.2/byzer-vscode-extension-linux-0.0.7.vsix)
-3. [Windows](https://download.byzer.org/byzer/2.3.2/byzer-vscode-extension-win-0.0.7.vsix)
+1. [Mac](https://download.byzer.org/byzer/nightly-build/byzer-vscode-extension-darwin-3.3.0-latest.vsix)
+2. [Linux](https://download.byzer.org/byzer/nightly-build/byzer-vscode-extension-linux-3.3.0-latest.vsix)
+3. [Windows](https://download.byzer.org/byzer/nightly-build/byzer-vscode-extension-win-3.3.0-latest.vsix)
 
 
 > Warnning: Windows 暂时不支持 Byzer-python,所以无法使用该项目。
